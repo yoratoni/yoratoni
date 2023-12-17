@@ -4,3 +4,4 @@ Note that they're configured to suit my needs, including a pretty advanced EsLin
 
 - [TS Node Boilerplate](https://github.com/yoratoni/ts-node-boilerplate) (TypeScript + Node.js).
 - [Nextron Boilerplate](https://github.com/yoratoni/nextron-boilerplate) (Next.js + Electron).
+- [React Boilerplate](https://github.com/yoratoni/react-boilerplate) (React + Typescript + Craco).
