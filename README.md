@@ -4,5 +4,6 @@ Note that they're configured to suit my standards, including a pretty advanced E
 
 - [TS Node Boilerplate](https://github.com/yoratoni/ts-node-boilerplate) (Node.js + Typescript).
 - [Nextron Boilerplate](https://github.com/yoratoni/nextron-boilerplate) (Next.js + Electron).
-- [React Boilerplate](https://github.com/yoratoni/react-boilerplate) (React.js + Typescript).
 - [Next.js Boilerplate](https://github.com/yoratoni/next-js-boilerplate) (Next.js + EsLint).
+- [React Boilerplate](https://github.com/yoratoni/react-boilerplate) (React.js + Typescript).
+
